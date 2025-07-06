@@ -16,4 +16,4 @@ node_modules
 #!.yarn/cache
 .pnp.*
 
-./django/envs.*
+django/envs/
